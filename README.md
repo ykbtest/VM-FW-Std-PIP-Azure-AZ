@@ -1,4 +1,4 @@
-# Azure-Firewall-with-standard-public-IP-in-AZ
+# VM-Series-Firewall-with-standard-public-IP-in-Azure-AZ
 
 [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fykbtest%2FVM-FW-Std-PIP-Azure-AZ%2Fmaster%2FAzureDeploy.json)
 
