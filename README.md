@@ -1,6 +1,6 @@
 # Azure-Firewall-with-standard-public-IP-in-AZ
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/ykbtest/VM-FW-Std-PIP-Azure-AZ/master/AzureDeploy.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fykbtest%2FVM-FW-Std-PIP-Azure-AZ%2Fmaster%2FAzureDeploy.json)
 
 - This template was modified from this template: https://github.com/kytx42/Azure/tree/master/Azure-2FW-Public-LB
 - This template supports the deployment of a Palo Alto Networks Firewall in an Availability Zone.  It supports the following features:
